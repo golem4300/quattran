@@ -21,15 +21,15 @@ login:
     auth_service: "google"
 
     # Should be self explanatory
-    username: "YOURACCOUNT@gmail.com"
-    password: "YOURPASSWORD"
+    username: "tranhoaipc52@gmail.com"
+    password: "12hackcailon"
 
 mapping:
     # Required, see https://developers.google.com/maps/documentation/javascript/get-api-key for details
-    gmapkey: "GOOGLE API KEY"
+    gmapkey: "AIzaSyAZ3zOJxUTy_Tl3IILGPlvtZninkI3c3lo"
 
     # Can be a string or a set of GPS coordinates
-    location: "SOME LOCATION"
+    location: "40.677850, -73.931255"
 
     # Use last known location instead of above specified location
     location_cache: true
